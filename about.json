@@ -1,0 +1,35 @@
+{
+  "name" : "Gruvbox",
+  "about_url" : "https://github.com/exodrifter/discourse-gruvbox",
+  "license_url": "https://github.com/exodrifter/discourse-gruvbox/blob/master/LICENSE.md",
+  "color_schemes": {
+    "Gruvbox Dark": {
+      "primary": "ebdbb2",
+      "secondary": "282828",
+      "tertiary": "83a598",
+      "quaternary": "fe8019",
+      "header_background": "1d2021",
+      "header_primary": "a89984",
+      "highlight": "3c3836",
+      "danger": "fb4934",
+      "success": "b8bb26",
+      "love": "d3869b",
+      "selected": "504945",
+      "hover": "7c6f64"
+    },
+    "Gruvbox Light": {
+      "primary": "3c3836",
+      "secondary": "fbf1c7",
+      "tertiary": "076678",
+      "quaternary": "d65d0e",
+      "header_background": "f9f5d7",
+      "header_primary": "7c6f64",
+      "highlight": "3c3836",
+      "danger": "ebdbb2",
+      "success": "79740e",
+      "love": "8f3f71",
+      "selected": "d5c4a1",
+      "hover": "a89984"
+    }
+  }
+}
